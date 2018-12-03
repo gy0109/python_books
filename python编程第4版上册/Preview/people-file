@@ -1,0 +1,18 @@
+sue
+name==>'sue'
+age==>20
+job==>'It student'
+pay==>40
+endrec
+bob
+name==>{'last': 'Bob', 'first': 'Smith'}
+age==>20
+job==>['software', 'writing']
+endrec
+tom
+name==>'Tom Tom'
+age==>50
+pay==>0
+job==>None
+endrec
+enddb
